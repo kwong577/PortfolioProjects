@@ -1,3 +1,7 @@
+-- COVID-19 Data was obtained from https://ourworldindata.org/coronavirus#licence
+-- Edouard Mathieu, Hannah Ritchie, Lucas Rodés-Guirao, Cameron Appel, Charlie Giattino, Joe Hasell, Bobbie Macdonald, Saloni Dattani, Diana Beltekian, Esteban Ortiz-Ospina and Max Roser (2020) - "Coronavirus Pandemic (COVID-19)". Published online at OurWorldInData.org. Retrieved from: 'https://ourworldindata.org/coronavirus' [Online Resource]
+
+
 -- Browse the entire dataset for covid_deaths
 SELECT *
 FROM PortfolioProject..covid_deaths
