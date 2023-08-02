@@ -19,7 +19,7 @@ Various projects that showcase the use of R, Python, SQL, etc.
 **Code**: SQLQuery - airbnb.sql  
 **Tableau Public**: [dashboard](https://public.tableau.com/views/AirBnBDataToronto-Sep2022/Story1?:language=en-US&:display_count=n&:origin=viz_share_link)  
 **Dashboard Canva**: AirBnB Data Dashboards.pdf  
-**Description**: This analysis examines the various AirBnB listings offered within the Toronto area. The data can be accessed through the following link (http://insideairbnb.com/get-the-data). We use multiple graphs to explore the average price point of the various listings available within the neighborhoods of Toronto. The intent is to give an overview that supports the decision-making of real estate companies and/or owners.  
+**Description**: This analysis examines the various AirBnB listings offered within the Toronto area. The data can be accessed through the following [link](http://insideairbnb.com/get-the-data). We use multiple graphs to explore the average price point of the various listings available within the neighborhoods of Toronto. The intent is to give an overview that supports the decision-making of real estate companies and/or owners.  
 **Technology**: MS-SQL, Tableau
 
 ### Twitter NLP Analysis
